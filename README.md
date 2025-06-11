@@ -1,5 +1,7 @@
 # Blue Voice: Analisis Sentimen Berbasis Aspek dan Pemodelan Topik pada Ulasan Wisatawan Terhadap Pantai Sanur dan Pantai Losari untuk Pengembangan Wisata Pesisir Berkelanjutan di Kawasan Tengah Indonesia
 
+![Blue Voice Logo](web/assets/images/blue-voice-header-logo-no-motto.png)
+
 ## By Otista 64C Team (LAI25-SM067)
 - Astri Nur Innayah
 - I Bagus Putu Swardanasuta
