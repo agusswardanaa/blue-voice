@@ -22,7 +22,7 @@ git clone https://github.com/agusswardanaa/blue-voice.git
 ```
 conda create --name main-ds python=3.9
 conda activate main-ds
-cd blu-voice
+cd blue-voice
 pip install -r requirements.txt
 ```
 
